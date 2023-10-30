@@ -1,5 +1,6 @@
 ### Hi there 👋
 <a href="https://app.daily.dev/neiljay"><img src="https://api.daily.dev/devcards/2e5d638371254e21bd1632bef10ce80b.png?r=i7d" width="400" alt="Neil Jay's Dev Card"/></a>
+<br>
 <a href="https://app.daily.dev/neiljay"><img src="https://github.com/neil-jay/neil-jay/blob/master/devcard.svg" width="400" alt="Neil Jay's Dev Card"/></a>
 <!--
 **neil-jay/neil-jay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
