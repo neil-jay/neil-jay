@@ -1,8 +1,7 @@
-### Hi there 👋
 <a href="https://app.daily.dev/neiljay"><img src="https://github.com/neil-jay/neil-jay/blob/main/devcard.svg" width="400" alt="Neil Jay's Dev Card"/></a>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Neil Jay
-==============================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Neil Jay
+===========================================================================================================================
 
 Web Developer | Software Geek | Pentester
 -----------------------------------------
