@@ -1,5 +1,3 @@
-<a href="https://app.daily.dev/neiljay"><img src="https://github.com/neil-jay/neil-jay/blob/main/devcard.svg" width="400" alt="Neil Jay's Dev Card"/></a>
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Neil Jay
 ===========================================================================================================================
 
@@ -15,6 +13,8 @@ Life is like a writing a code. Find issues and fix them and go ahead!
 *   🧠  I'm learning PHP
 *   🤝  I'm open to collaborating on Front end projects
 *   ⚡  Some more update coming soon!
+
+<a href="https://app.daily.dev/neiljay"><img src="https://github.com/neil-jay/neil-jay/blob/main/devcard.svg" width="400" alt="Neil Jay's Dev Card"/></a>
 <!--
 **neil-jay/neil-jay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
