@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer | Software Geek | Pentester
 -----------------------------------------
 
-Life is like a writing a code. Find issues and fix them and go ahead!
+Life is like writing a code. Find issues and fix them and go ahead!
 
 *   🌍  I'm based in India
 *   🖥️  This is my portfolio
