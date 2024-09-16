@@ -14,7 +14,7 @@ Life is like writing a code. Find issues and fix them and go ahead!
 *   🤝  I'm open to collaborating on Front end projects
 *   ⚡  Some more update coming soon!
 
-<a href="https://app.daily.dev/neiljay"><img src="https://github.com/neil-jay/neil-jay/blob/main/devcard.svg" width="400" alt="Neil Jay's Dev Card"/></a>
+<a href="https://app.daily.dev/neiljay"><img src="https://api.daily.dev/devcards/v2/edf881yYUMzyUcYvnftcS.png?type=wide&r=491" width="652" alt="Neil Jay's Dev Card"/></a>
 <!--
 **neil-jay/neil-jay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
