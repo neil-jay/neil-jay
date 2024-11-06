@@ -8,7 +8,7 @@ Life is like writing a code. Find issues and fix them and go ahead!
 
 *   🌍  I'm based in India
 *   🖥️  This is my portfolio
-*   ✉️  You can contact me at [hello@neiljay.com](mailto:hello@neiljay.com)
+*   ✉️  You can contact me at [Email](mailto:neiljay@pcmender.online)
 *   🚀  I'm currently working on [Building custom Digital Archive]
 *   🧠  I'm upgrading my JS
 *   🤝  I'm open to collaborating on Front end projects
