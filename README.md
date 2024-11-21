@@ -8,11 +8,8 @@ Life is like writing a code. Find issues and fix them and go ahead!
 
 *   🌍  I'm based in India
 *   🖥️  This is my portfolio
-*   ✉️  You can contact me at [web](https://neiljay.com/)
-*   🚀  I'm currently working on [Building custom Digital Archive]
-*   🧠  I'm upgrading my JS
-*   🤝  I'm open to collaborating on Front end projects
-*   ⚡  Some more update coming soon!
+*   ✉️  Know more at [web](https://neiljay.com/)
+*   🤝  I'm open to collaborate with projects
 
 <a href="https://app.daily.dev/neiljay"><img src="https://api.daily.dev/devcards/v2/edf881yYUMzyUcYvnftcS.png?type=wide&r=491" width="652" alt="Neil Jay's Dev Card"/></a>
 <!--
